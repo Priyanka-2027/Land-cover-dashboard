@@ -4,6 +4,9 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-orange.svg)](https://streamlit.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Streamlit_Cloud-brightgreen.svg)](https://land-cover-dashboard.streamlit.app/)
+
+**🚀 Live Dashboard**: https://land-cover-dashboard.streamlit.app/
 
 A professional, interactive web application built with Streamlit for comprehensive satellite image analysis, land cover classification, change detection, and predictive modeling of greenery trends.
 
